@@ -19,3 +19,7 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 - Monthly sales for a souvenir shop on the wharf at a beach resort town in Queensland, Australia.
 ![GitHub Logo](/log_monthly_fitted.png)
 ![GitHub Logo](/fcast_sale_monthly.png)
+
+- Weekly data beginning 2 February 1991, ending 20 January 2017. Units are "million barrels per day".
+![GitHub Logo](/Fourier_lin_reg.png)
+![GitHub Logo](/fcast_million_barrel.png)
