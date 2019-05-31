@@ -9,3 +9,9 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 ![GitHub Logo](/Rplot_scatter_matrix_temp_demand.png)
 ![GitHub Logo](/demandVsTemp.png)
 ![GitHub Logo](/lin_reg_demand_temp.png)
+
+
+- Times in seconds for the gold-medal winner of the men's 400m track final at each Olympics since 1896. Missing values occur in 1916, 1940 and 1944 due to the World Wars.
+
+![GitHub Logo](/fitted_data.png)
+![GitHub Logo](/rsidualerrormen400.png)
