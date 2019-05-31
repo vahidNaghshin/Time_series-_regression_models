@@ -15,3 +15,7 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 
 ![GitHub Logo](/fitted_data.png)
 ![GitHub Logo](/rsidualerrormen400.png)
+
+- Monthly sales for a souvenir shop on the wharf at a beach resort town in Queensland, Australia.
+![GitHub Logo](/log_monthly_fitted.png)
+![GitHub Logo](/fcast_sale_monthly.png)
