@@ -23,3 +23,7 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 - Weekly data beginning 2 February 1991, ending 20 January 2017. Units are "million barrels per day".
 ![GitHub Logo](/Fourier_lin_reg.png)
 ![GitHub Logo](/fcast_million_barrel.png)
+
+- Level of Lake Huron in feet (reduced by 570 feet): 1875–1972.
+![GitHub Logo](/lin_reg_huron_lake.png)
+![GitHub Logo](/fcast_lake_huron.png)
